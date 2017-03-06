@@ -1,3 +1,1 @@
-# React-native-APP-Demo
-
-### React-Native components demo
+# ReactNative-Components-Demo
